@@ -6,7 +6,25 @@ from os import environ as env
 import asyncio, datetime, time
 
 
-ACCEPTED_TEXT = "Hey {user}\n\nYour Request For {chat} Is Accepted ✅"
+ACCEPTED_TEXT = "Hey {user}\n\nYour Request For {chat} Is Accepted ✅ አማርኛ ፊልም 👉 @Amharic_Films
+
+እንግሊዘኛ ፊልም 👉 @IrisMoviesCh & @Films_433
+
+እንግሊዘኛ ፊልም በትርጉም 👉 @Eng_Amh
+
+ህንድ በትርጉም 👉 @Hindi_Amharic
+
+ተከታታይ ፊልም በትርጉም 👉 @Series_Amhh
+
+ተከታታይ ፊልም ያለ ትርጉም👉 @SeriesBayX
+
+ቱርክ ፊልም👉 @ertugrulkuruls
+
+Animation ፊልም 👉 @Animation_FilmsHd
+
+የ እንግሊዘኛ ፊልም Bot 🫡 @Phonofilmbot
+
+- @IrisMoviesCh - @Films_433 -"
 START_TEXT = "Hello {}\n\nI am Auto Request Accept Bot With Working For All Channel. Make Me Admin In Your Channel and I Will Start Accepting Requests From Every Link."
 
 API_ID = int(env.get('API_ID'))
